@@ -17,8 +17,8 @@ features:
   - title: Cloud
     details: Deploying ABC infrastructures on AWS
   - title: Network
-    details: Enhancing home security with pfSense
+    details: Enhancing network security with pfSense
   - title: System
-    details: "K3s: Kubernetes made simple"
+    details: "Proxmox: simplifying Virtualization and Containers"
 ---
 
