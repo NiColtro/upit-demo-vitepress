@@ -6,5 +6,8 @@
     "docs:dev": "vitepress dev src",
     "docs:build": "vitepress build src",
     "docs:preview": "vitepress preview src"
+  },
+  "dependencies": {
+    "moment": "^2.30.1"
   }
 }
